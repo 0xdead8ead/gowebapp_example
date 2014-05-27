@@ -14,3 +14,8 @@ You can also build a binary:
 ```
 go build app.go
 ```
+
+Test App:
+
+http://localhost:3000
+
