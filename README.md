@@ -17,5 +17,5 @@ go build app.go
 
 Test App:
 
-http://localhost:3000
+[http://localhost:3000/index/<insert_name>)](http://localhost:3000/index/booyah)
 
